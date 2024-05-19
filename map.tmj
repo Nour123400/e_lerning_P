@@ -573,7 +573,7 @@
         }],
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
- "tileheight":32,
+ "tileheight":50,
  "tilesets":[
         {
          "columns":6,
@@ -715,7 +715,7 @@
          "tileheight":32,
          "tilewidth":32
         }],
- "tilewidth":32,
+ "tilewidth":10,
  "type":"map",
  "version":"1.10",
  "width":31
