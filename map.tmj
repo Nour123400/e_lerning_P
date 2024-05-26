@@ -32,7 +32,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"www.youtube.com\/embed\/q5deOCwewWk?si=te0CF4VZBUtKvSjk"
+                 "value":"https:\/\/www.youtube.com\/embed\/q5deOCwewWk?si=te0CF4VZBUtKvSjk"
                 }],
          "type":"tilelayer",
          "visible":true,
