@@ -32,7 +32,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map1.tmj"
+                 "value":"map1.tmj#entery_from_empfang"
                 }],
          "type":"tilelayer",
          "visible":true,
