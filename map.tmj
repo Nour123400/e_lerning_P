@@ -32,7 +32,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.google.com\/search?sca_esv=35b2ac92d41e214b&sca_upv=1&rlz=1C1CHBF_deDE1033DE1033&sxsrf=ADLYWIKWs-sp1-fUx-eJdptrQ-CxkP-1HA:1716751899071&q=How+Social+Media+Hacks+Your+Brain&tbm=vid&source=lnms&prmd=vinbz&sa=X&ved=2ahUKEwj-__GYh6yGAxWe2QIHHYejDYIQ0pQJegQICxAB&biw=1536&bih=706&dpr=1.25#fpstate=ive&vld=cid:1c53fd9f,vid:q5deOCwewWk,st:0"
+                 "value":"<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/q5deOCwewWk?si=yCHaJo07oAHoTimA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
                 }],
          "type":"tilelayer",
          "visible":true,
