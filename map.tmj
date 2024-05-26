@@ -32,7 +32,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"<iframe width=\"560\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/q5deOCwewWk?si=yCHaJo07oAHoTimA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen><\/iframe>"
+                 "value":"https:\/\/youtu.be\/q5deOCwewWk?si=te0CF4VZBUtKvSjk"
                 }],
          "type":"tilelayer",
          "visible":true,
